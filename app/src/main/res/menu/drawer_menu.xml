@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/sortFN" android:title="@string/sort_fn"></item>
+    <item android:id="@+id/sortLN" android:title="@string/sort_ln"></item>
+    <item android:id="@+id/sortEM" android:title="@string/sort_em"></item>
+    <item android:id="@+id/sortNum" android:title="@string/sort_num"></item>
+</menu>
